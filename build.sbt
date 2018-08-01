@@ -24,7 +24,7 @@ def javacOptionsVersion(scalaVersion: String): Seq[String] = {
   }
 }
 
-name := "sha3"
+name := "SpMVAccel"
 
 organization := "edu.berkeley.cs"
 
